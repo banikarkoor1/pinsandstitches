@@ -62,18 +62,16 @@ img.banner {
 
 
 
-footer {
-	
-	background-color : hsl(337, 77%, 83%);
+footer h3{
+	float: left;
 }
 
 footer ul {
-	background-color : hsl(337, 77%, 83%);
+	background-color : rgb(254, 130, 140);
 	color : black;
 	font-size: 20px;
 	list-style-type: none;
 	float: left
-
 }
 
 footer ul li a{
@@ -84,5 +82,5 @@ footer ul li a{
 }
 
 footer ul li a:hover{
-	color: beige;
+	color: rgb(208,180,134);
 }
