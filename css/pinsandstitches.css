@@ -1,0 +1,130 @@
+/* RESET STYLE CSS */
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body{
+	font-family : 'comic sans ms' , verdana, sans-sarif;
+	background-color: rgb(208,180,134);
+}
+
+header {
+	background-color: rgb(254, 130, 140);
+}
+
+footer {
+	height: 200px;
+	width: 100%;
+	background-color : rgb(254, 130, 140);
+}
+
+h1 {
+	font-size: 52px;
+	text-align: center;
+	padding: 3% 0;
+}
+
+img.cart {
+	height: 30px;
+	width: 30px;
+}
+
+img.purse {
+	height: 500px;
+	width: 80%;
+}
+
+img.scarf {
+	height: 500px;
+	width: 70%;
+}
+
+img.hat {
+	height: 500px;
+	width: 90%;
+}
+
+h5 {
+	text-align: right;
+}
+
+
+nav {
+	width: 90%;
+	margin: auto;
+	/* outline: 1px solid red; */
+}
+
+nav ul li {
+	color : black;
+	font-size: 40px;
+	list-style-type: none;
+	float: left;
+	padding: 1.5% 0;
+}
+
+nav ul li a{
+	color:black;
+	text-decoration: none;
+	margin: 60px;
+	padding: 20px;
+}
+
+nav ul li a:hover{
+	color: rgb(208,180,134);
+}
+
+img.banner {
+	height: 400px;
+	width: 100%;
+}
+
+div ul li {
+	font-size: 40px;
+	list-style-type: none;
+	float: left;
+	background-color: rgb(208,180,134);
+	margin:4%;
+	padding: 3% 0;
+}
+div ul li a{
+	color:black;
+	text-decoration: none;
+}
+
+div ul li:hover {
+	background-color: rgb(254, 130, 140);
+	border-width: 10px;
+	border-color: rgb(208,180,134);
+	
+}
+
+img.purse {
+	height:500px;
+	width: 100%;
+}
+
+footer h3{
+	float: left;
+}
+
+footer ul {
+	background-color : rgb(254, 130, 140);
+	color : black;
+	font-size: 20px;
+	list-style-type: none;
+	float: left
+}
+
+footer ul li a{
+	font-size: 15px;
+	color:black;
+	text-decoration: none;
+	margin:100px;
+}
+
+footer ul li a:hover{
+	color: rgb(208,180,134);
+}
