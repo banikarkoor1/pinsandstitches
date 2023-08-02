@@ -73,7 +73,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-	color: rgb(208,180,134);
+	color: white;
 }
 
 img.banner {
@@ -126,5 +126,5 @@ footer ul li a{
 }
 
 footer ul li a:hover{
-	color: rgb(208,180,134);
+	color: white;
 }
